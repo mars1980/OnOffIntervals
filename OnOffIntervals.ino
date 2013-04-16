@@ -10,6 +10,7 @@
  arduino uno
  powerswitch tail // power to pin 7, ground to ground
  4.16.13
+ crys moore
  
 	 
  */
