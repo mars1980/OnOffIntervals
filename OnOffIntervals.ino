@@ -9,6 +9,7 @@
   --chronodot wiring: 5v,gnd, analog pin 4 to SDA. analog pin 5 to SCL. for I2C comm
  arduino uno
  powerswitch tail // power to pin 7, ground to ground
+ 4.16.13
  
 	 
  */
